@@ -1,0 +1,41 @@
+body {
+	background: black;
+	color: #cccccc;
+    font-family: Verdana;
+}
+
+.titulo {
+    color: #f1c232;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+p {
+    text-align: center;
+}
+
+.problema {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 80px;
+    line-height: 800px;
+}
+
+.slideWarning {
+    background: red;
+    color: white;
+    width: 2000px;
+    height: 800px;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+li {
+    list-style: circle;
+    font-size: 40px;
+}
